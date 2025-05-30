@@ -1,8 +1,8 @@
 # Design-a-Basic-Mobile-and-Web-Layout-for-an-Existing-Case-Study
 
-name : JAVAN RUFUS J
+name : ARCHANA S
 
-reg no: 212224230104
+reg no: 212222040010
 
 # AIM:
 
